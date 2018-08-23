@@ -10,6 +10,8 @@
 
 Após a aprovação do PR, foi feita uma reunião com o supervisor no dia 16 de agosto. O objetivo da reunião foi iniciar o planejamento do projeto, separando por objetivo (definidos na proposta).
 
+Início da busca por patrocinadores para o HackathonUSP 2018.2.
+
 ## Detalhamento de atividades por objetivo
 
 ### 1. Site do USPCodeLab
@@ -33,7 +35,6 @@ Foi levantada a possibilidade de usar *design systems*. As seguintes tecnologias
 * PatternLab
 * bitsrc.io/uspcodelab
 
-
 ### 2. Site da CodeLab Initiative
 
 *Ainda não iniciado*
@@ -51,3 +52,10 @@ Tentei contatos com Bradesco, Neon e ThinkSeg. O contato do Bradesco respondeu d
 ## Previsão para próxima semana
 
 *Baseado no andamento da semana atual, estimar o que pode ou não ser feito durante a próxima semana.*
+
+Setup inicial do repositório do site do USPCodeLab:
+* Atualização do Dockerfile;
+* Estudo sobre Vue CLI;
+* Teste básico - criaçao de um projeto Vue a partir do Vue CLI.
+
+Continuação da busca e negociação de patrocínios para o HackathonUSP 2018.2. Atividades dependem das respostas de *startups* ou empresas.
