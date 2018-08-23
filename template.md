@@ -26,6 +26,10 @@
 
 *Ainda não iniciado*
 
+## Detalhamento de outras atividades relacionadas ao grupo
+
+*Descrição mais precisa das atividades executadas durante a semana que são relacionadas ao grupo de extensão, mas não estão relacionadas aos objetivos descritos na proposta da disciplina.*
+
 ## Previsão para próxima semana
 
 *Baseado no andamento da semana atual, estimar o que pode ou não ser feito durante a próxima semana.*
