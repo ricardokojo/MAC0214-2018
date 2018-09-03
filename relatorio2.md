@@ -60,7 +60,7 @@ A mim foi assimilada a tarefa de criar o *logo* e um *banner* para o evento do F
 
 O logo foi criado em aproximadamente um dia, juntando o símbolo ♀️ com uma bicicleta, já que o evento remete à mobilidade e é direcionada ao público feminino. Foram feitas 4 versões do *logo*, alterando cores e sombras.
 
-Para *banner* foram criadas 3 versões. O *banner* contém o *logo* do evento, organizadores, apoio e patrocínio. As duas primeiras versões foram criadas após a criação do logo. A 3ª foi criada após consulta com outras pessoas
+Para *banner* foram criadas 3 versões. O *banner* contém o *logo* do evento, organizadores, apoio e patrocínio. As duas primeiras versões foram criadas após a criação do logo. A 3ª foi criada após consulta com parceiros do evento.
 
 ## Previsão para próxima semana
 
