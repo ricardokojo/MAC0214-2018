@@ -1,4 +1,4 @@
-# Relatório Semanal - Semana X - XX/XX a XX/XX
+# Relatório Semanal - Semana 6 - 16/08 a 22/08
 
 **Aluno:** Ricardo Hideki Hangai Kojo - NUSP 10295429
 
@@ -7,6 +7,8 @@
 ## Introdução
 
 *Breve introdução das atividades executadas na semana, retomando o que foi feito na semana anterior*
+
+
 
 ## Detalhamento de atividades por objetivo
 
