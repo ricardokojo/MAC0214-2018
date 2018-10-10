@@ -12,7 +12,7 @@
 
 ### 1. Site do USPCodeLab
 
-*Ainda não iniciado*
+
 
 ### 2. Site da CodeLab Initiative
 
@@ -20,11 +20,11 @@
 
 ### 3. Brains
 
-*Ainda não iniciado*
+
 
 ### 4. HackathonUSP 2018.2
 
-*Ainda não iniciado*
+
 
 ## Detalhamento de outras atividades relacionadas ao grupo
 
@@ -33,3 +33,9 @@
 ## Previsão para próxima semana
 
 *Baseado no andamento da semana atual, estimar o que pode ou não ser feito durante a próxima semana.*
+
+**Site do USPCodeLab** => 
+
+**Brains** => 
+
+**HackathonUSP 2018.2** => 
