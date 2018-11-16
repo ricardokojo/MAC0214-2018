@@ -1,4 +1,4 @@
-# Relatório Semanal - Semana X - 14/10 a 20/10
+# Relatório Semanal - Semana 10 - 14/10 a 20/10
 
 **Aluno:** Ricardo Hideki Hangai Kojo - NUSP 10295429
 
